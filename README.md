@@ -2,4 +2,4 @@
 
 Google homepage clone made with HTML and CSS.
 
-👉 [Live Demo](https://cceloso.github.io/google-homepage/)
+👉 Live Demo can be found [here](https://cceloso.github.io/google-homepage/).
